@@ -9,5 +9,11 @@ int main( ){
 	// can be OF_WINDOW or OF_FULLSCREEN
 	// pass in width and height too:
 	ofRunApp(new ofApp());
-
+	
+	cout << endl;
+	cout << "Hello from main";
+	cout << endl;
+	cout << endl;
+	return 0;
+	system ("pause");
 }
